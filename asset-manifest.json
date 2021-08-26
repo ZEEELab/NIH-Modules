@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/NIH-Modules/static/css/main.570b9990.chunk.css",
+    "main.js": "/NIH-Modules/static/js/main.cdde4c61.chunk.js",
+    "main.js.map": "/NIH-Modules/static/js/main.cdde4c61.chunk.js.map",
+    "runtime-main.js": "/NIH-Modules/static/js/runtime-main.32b90157.js",
+    "runtime-main.js.map": "/NIH-Modules/static/js/runtime-main.32b90157.js.map",
+    "static/js/2.53fef568.chunk.js": "/NIH-Modules/static/js/2.53fef568.chunk.js",
+    "static/js/2.53fef568.chunk.js.map": "/NIH-Modules/static/js/2.53fef568.chunk.js.map",
+    "index.html": "/NIH-Modules/index.html",
+    "precache-manifest.1085e0f5821eb1f22f91ae0362943a44.js": "/NIH-Modules/precache-manifest.1085e0f5821eb1f22f91ae0362943a44.js",
+    "service-worker.js": "/NIH-Modules/service-worker.js",
+    "static/css/main.570b9990.chunk.css.map": "/NIH-Modules/static/css/main.570b9990.chunk.css.map",
+    "static/js/2.53fef568.chunk.js.LICENSE.txt": "/NIH-Modules/static/js/2.53fef568.chunk.js.LICENSE.txt",
+    "static/media/elizabeth.jpg": "/NIH-Modules/static/media/elizabeth.e8906121.jpg",
+    "static/media/emily.jpg": "/NIH-Modules/static/media/emily.a98b9e99.jpg",
+    "static/media/jon.jpg": "/NIH-Modules/static/media/jon.bf6ed4cd.jpg",
+    "static/media/luis.jpg": "/NIH-Modules/static/media/luis.701b90fb.jpg",
+    "static/media/m12_preview.png": "/NIH-Modules/static/media/m12_preview.1718f0fd.png",
+    "static/media/marisa.png": "/NIH-Modules/static/media/marisa.026a3452.png",
+    "static/media/mod3screen.jpg": "/NIH-Modules/static/media/mod3screen.d2b4d7da.jpg",
+    "static/media/output.mp4": "/NIH-Modules/static/media/output.4813ff1d.mp4",
+    "static/media/rnaught_preview.png": "/NIH-Modules/static/media/rnaught_preview.e2902f3a.png",
+    "static/media/stephanie.png": "/NIH-Modules/static/media/stephanie.80ce24b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32b90157.js",
+    "static/js/2.53fef568.chunk.js",
+    "static/css/main.570b9990.chunk.css",
+    "static/js/main.cdde4c61.chunk.js"
+  ]
+}
