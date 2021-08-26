@@ -1,0 +1,101 @@
+html, #root{
+    background-color: #1c2530;
+}
+
+#moduleSvg{
+    /* background-color: white; */
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 10vh;
+    /* position: fixed; */
+    /* top: '50px';
+    left: 15; */
+    /* align-self: flex-start; */
+}
+
+
+.st0{fill:none;stroke:#C49A6C;stroke-width:7;stroke-linecap:round;stroke-miterlimit:10;}
+.st1{fill:#231F20;stroke:#231F20;stroke-width:7;stroke-linecap:round;stroke-miterlimit:10;}
+.st2{fill:#C3996C;}
+.st3{fill:#985EA6;}
+.st4{fill:#F4CB45;}
+.st5{fill:#C7AA56;}
+.st6{fill:#3C2517;}
+.st7{fill:#802A34;}
+.st8{fill:#C49A6C;}
+.st9{fill:#985DA6;}
+.st10{fill:#3C2415;}
+.st11{fill:#7F2933;}
+
+.lightbeam_st{
+    opacity:0.72;
+    fill:url(#lightbeam_1_);
+}
+
+#lightstop1{
+    stop-color:#FFFFFF;
+    stop-opacity:0
+}
+
+#lightstop2{
+    stop-color:#FFFFFF;
+}
+
+#susceptible{
+    opacity: 0;
+}
+#infected{
+    opacity: 0;
+}
+#recovered{
+    opacity: 0;
+}
+
+#base{
+    opacity:1;
+}
+
+#lightnings{
+    opacity: 0;
+}
+
+#spotlightpath{
+    fill:url(#a)
+}
+
+/* tiles */
+.topFace{
+    fill:#4484c5;
+}
+
+.sideProfile{
+    fill: #295481;
+}
+
+.susTileTop{
+    fill:#4484c5;
+}
+.susTileSide{
+    fill: #295481;
+}
+.letterS{
+    fill:#A8BCDE;
+}
+.infTileTop{
+    fill: #ea7526;
+}
+.infTileSide{
+    fill: #9f4f12;
+}
+.letterI{
+    fill: #eebd9b;
+}
+.recTileTop{
+    fill: #59b25f;
+}
+.recTileSide{
+    fill: #377b40;
+}
+.letterR{
+    fill:#b3d6b5;
+}

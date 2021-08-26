@@ -1,0 +1,25 @@
+/* wg colors */
+.wgst0{fill:#CFB395;}
+.wgst1{fill:#231F20;}
+.wgst2{fill:#D45931;}
+.wgst3{fill:#784528;}
+.wgst4{fill:#CEB394;}
+.wgst5{fill:#D45832;}
+.wgst6{fill:#BEAA97;}
+.wgst7{fill:#774428;}
+.wgst8{fill:#7F2A34;}
+.wgst9{fill:#F3CA44;}
+
+#wg_susceptible{
+    opacity: 0;
+}
+#wg_infected{
+    opacity: 0;
+}
+#wg_recovered{
+    opacity: 0;
+}
+
+#wglightning{
+    opacity: 0;
+}
