@@ -57,7 +57,7 @@ export default function Documents() {
               <img src={rnaughtImg} className={classes.pdfImg}></img>
               <p className={classes.p}>Created by Emily Andrus. An overview of the concept of R<sub>0</sub>.</p>
               <Button component={Link} to ="ro_storyboard.pdf" size="lg" target="_blank" round download> 
-                  Download Document
+                  Download Storyboard
               </Button>
             </GridItem>
           </GridContainer>
