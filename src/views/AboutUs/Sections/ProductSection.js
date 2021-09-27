@@ -3,15 +3,16 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 
 // @material-ui/icons
-import Chat from "@material-ui/icons/Chat";
-import VerifiedUser from "@material-ui/icons/VerifiedUser";
-import Fingerprint from "@material-ui/icons/Fingerprint";
+// import Chat from "@material-ui/icons/Chat";
+// import VerifiedUser from "@material-ui/icons/VerifiedUser";
+// import Fingerprint from "@material-ui/icons/Fingerprint";
 // core components
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
-import InfoArea from "components/InfoArea/InfoArea.js";
+// import InfoArea from "components/InfoArea/InfoArea.js";
 
-import styles from "assets/jss/material-kit-react/views/landingPageSections/productStyle.js";
+import styles from "assets/jss/material-kit-react/views/landingPageSections/teamStyle.js";
+
 
 const useStyles = makeStyles(styles);
 
@@ -21,17 +22,14 @@ export default function ProductSection() {
     <div className={classes.section}>
       <GridContainer justify="center">
         <GridItem xs={12} sm={12} md={8}>
-          <h2 className={classes.title}>Let{"'"}s talk product</h2>
+          <h2 className={classes.title}>About COVID-19 Modules</h2>
           <h5 className={classes.description}>
-            This is the paragraph where you can write more details about your
-            product. Keep you user engaged by providing meaningful information.
-            Remember that by this time, the user is curious, otherwise he wouldn
-            {"'"}t scroll to get here. Add a button if you want the user to see
-            more.
+            Our project offers a visual, hands-on opportunity to learn about epidemiological models that illustrate the spread of infectious disease. 
           </h5>
+          <h5 className={classes.description}></h5>
         </GridItem>
       </GridContainer>
-      <div>
+      {/* <div>
         <GridContainer>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
@@ -61,7 +59,7 @@ export default function ProductSection() {
             />
           </GridItem>
         </GridContainer>
-      </div>
+      </div> */}
     </div>
   );
 }

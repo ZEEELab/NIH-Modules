@@ -27,7 +27,7 @@ import styles from "assets/jss/material-kit-react/views/aboutUsPage.js";
 
 // Sections for this page
 // import Dude from "./Sections/dude.js"
-// import ProductSection from "./Sections/ProductSection.js";
+import ProductSection from "./Sections/ProductSection.js";
 import TeamSection from "./Sections/TeamSection.js";
 // import WorkSection from "./Sections/WorkSection.js";
 
@@ -46,6 +46,9 @@ export default function AboutUs() {
       <div className={classNames(classes.container)}>
         <TeamSection>
         </TeamSection>
+        <ProductSection>
+        
+        </ProductSection>
         </div>
     </div>
 
